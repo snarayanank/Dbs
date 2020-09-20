@@ -34,6 +34,10 @@ This folder contains all the step definitions(Glue) for the feature files
 Test Runner - src/test/java/sg/com/dbs/testRunner/TestRunner.java
 This test runner class file executes all the feature files using junit annotation
 
+Excel Ouputs and Screenshots gets saved in the below path:
+src/main/java/sg/com/dbs/reports/Output.xls
+src/main/java/sg/com/dbs/reports/<scenario name>screenshot.png
+
 ## Running Test
 
 We can run the tests from maven command line or from Intellij
@@ -58,5 +62,3 @@ Reports will be generated in the below location after the test run is completed:
 /target/cucumber-report-maven/
 
 /target/site/cucumber-report.html
-
-Excel output: src/main/java/sg/com/dbs/reports/Output.xls

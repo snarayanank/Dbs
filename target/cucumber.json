@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2386182000,
+              "duration": 1937290000,
               "status": "passed"
             },
             "line": 4,
@@ -23,7 +23,7 @@
           },
           {
             "result": {
-              "duration": 6068244000,
+              "duration": 5970588000,
               "status": "passed"
             },
             "line": 5,
@@ -41,7 +41,7 @@
           },
           {
             "result": {
-              "duration": 546056000,
+              "duration": 1214780000,
               "status": "passed"
             },
             "line": 6,
@@ -60,11 +60,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-09-20T04:56:30.871Z",
+        "start_timestamp": "2020-09-20T06:52:08.641Z",
         "before": [
           {
             "result": {
-              "duration": 4900328000,
+              "duration": 4368307000,
               "status": "passed"
             },
             "match": {
@@ -79,11 +79,11 @@
         "after": [
           {
             "result": {
-              "duration": 530611000,
+              "duration": 721526000,
               "status": "passed"
             },
             "match": {
-              "location": "sg.com.dbs.stepDefinitions.Hooks.tearDown()"
+              "location": "sg.com.dbs.stepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
             }
           }
         ],
@@ -92,7 +92,7 @@
         "steps": [
           {
             "result": {
-              "duration": 664398000,
+              "duration": 351837000,
               "status": "passed"
             },
             "line": 10,
@@ -110,7 +110,7 @@
           },
           {
             "result": {
-              "duration": 273224000,
+              "duration": 281946000,
               "status": "passed"
             },
             "line": 11,
@@ -128,7 +128,7 @@
           },
           {
             "result": {
-              "duration": 301673000,
+              "duration": 352185000,
               "status": "passed"
             },
             "line": 12,
@@ -160,7 +160,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1912620000,
+              "duration": 2174949000,
               "status": "passed"
             },
             "line": 4,
@@ -172,7 +172,7 @@
           },
           {
             "result": {
-              "duration": 3072465000,
+              "duration": 3199108000,
               "status": "passed"
             },
             "line": 5,
@@ -190,7 +190,7 @@
           },
           {
             "result": {
-              "duration": 627000000,
+              "duration": 1301170000,
               "status": "passed"
             },
             "line": 6,
@@ -209,11 +209,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-09-20T04:56:46.599Z",
+        "start_timestamp": "2020-09-20T06:52:23.895Z",
         "before": [
           {
             "result": {
-              "duration": 2834865000,
+              "duration": 3216640000,
               "status": "passed"
             },
             "match": {
@@ -228,11 +228,11 @@
         "after": [
           {
             "result": {
-              "duration": 412289000,
+              "duration": 938832000,
               "status": "passed"
             },
             "match": {
-              "location": "sg.com.dbs.stepDefinitions.Hooks.tearDown()"
+              "location": "sg.com.dbs.stepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
             }
           }
         ],
@@ -241,7 +241,7 @@
         "steps": [
           {
             "result": {
-              "duration": 632726000,
+              "duration": 316603000,
               "status": "passed"
             },
             "line": 16,
@@ -259,7 +259,7 @@
           },
           {
             "result": {
-              "duration": 238403000,
+              "duration": 236612000,
               "status": "passed"
             },
             "line": 17,
@@ -277,7 +277,7 @@
           },
           {
             "result": {
-              "duration": 1275263000,
+              "duration": 1295381000,
               "status": "passed"
             },
             "line": 18,
@@ -358,11 +358,11 @@
         "steps": []
       },
       {
-        "start_timestamp": "2020-09-20T04:56:57.614Z",
+        "start_timestamp": "2020-09-20T06:52:36.586Z",
         "before": [
           {
             "result": {
-              "duration": 2869212000,
+              "duration": 3017234000,
               "status": "passed"
             },
             "match": {
@@ -377,11 +377,11 @@
         "after": [
           {
             "result": {
-              "duration": 411249000,
+              "duration": 617442000,
               "status": "passed"
             },
             "match": {
-              "location": "sg.com.dbs.stepDefinitions.Hooks.tearDown()"
+              "location": "sg.com.dbs.stepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
             }
           }
         ],
@@ -390,7 +390,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1992057000,
+              "duration": 1977821000,
               "status": "passed"
             },
             "line": 7,
@@ -402,7 +402,7 @@
           },
           {
             "result": {
-              "duration": 3004640000,
+              "duration": 9423689000,
               "status": "passed"
             },
             "line": 8,
@@ -420,7 +420,7 @@
           },
           {
             "result": {
-              "duration": 1283919000,
+              "duration": 1301491000,
               "status": "passed"
             },
             "line": 9,
@@ -438,7 +438,7 @@
           },
           {
             "result": {
-              "duration": 431310000,
+              "duration": 1211743000,
               "status": "passed"
             },
             "line": 10,
@@ -456,7 +456,7 @@
           },
           {
             "result": {
-              "duration": 1522996000,
+              "duration": 1321817000,
               "status": "passed"
             },
             "line": 11,
@@ -474,7 +474,7 @@
           },
           {
             "result": {
-              "duration": 309161000,
+              "duration": 313379000,
               "status": "passed"
             },
             "line": 12,
@@ -492,7 +492,7 @@
           },
           {
             "result": {
-              "duration": 781762000,
+              "duration": 800074000,
               "status": "passed"
             },
             "line": 13,

@@ -30,6 +30,7 @@ public class SocialImpactSteps extends Base {
     WebDriverWait wait;
     JavascriptExecutor js;
     String pageTitle;
+
     public SocialImpactSteps()
     {
         driver = Hooks.driver;

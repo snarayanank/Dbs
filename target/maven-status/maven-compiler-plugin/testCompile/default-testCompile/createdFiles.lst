@@ -1,0 +1,4 @@
+sg/com/dbs/stepDefinitions/AwardsSteps.class
+sg/com/dbs/stepDefinitions/SocialImpactSteps.class
+sg/com/dbs/testRunner/TestRunner.class
+sg/com/dbs/stepDefinitions/Hooks.class

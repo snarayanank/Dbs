@@ -1,0 +1,520 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2365428000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on dbs singapore home page",
+            "match": {
+              "location": "sg.com.dbs.stepDefinitions.SocialImpactSteps.user_is_on_dbs_singapore_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4050439000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User clicks on \"Learn More\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Learn More\"",
+                  "offset": 15
+                }
+              ],
+              "location": "sg.com.dbs.stepDefinitions.SocialImpactSteps.user_clicks_on(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 529610000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User clicks on \"About\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"About\"",
+                  "offset": 15
+                }
+              ],
+              "location": "sg.com.dbs.stepDefinitions.SocialImpactSteps.user_clicks_on(java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-09-19T17:24:09.076Z",
+        "before": [
+          {
+            "result": {
+              "duration": 4817781000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "sg.com.dbs.stepDefinitions.Hooks.initialize()"
+            }
+          }
+        ],
+        "line": 9,
+        "name": "Validate the total number of awards displayed is 22",
+        "description": "",
+        "id": "validate-the-awards-\u0026-accolades-page;validate-the-total-number-of-awards-displayed-is-22",
+        "after": [
+          {
+            "result": {
+              "duration": 535955000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "sg.com.dbs.stepDefinitions.Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 645631000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User clicks on \"Who we are\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Who we are\"",
+                  "offset": 15
+                }
+              ],
+              "location": "sg.com.dbs.stepDefinitions.SocialImpactSteps.user_clicks_on(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4902606000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User clicks on \"Our Awards \u0026 Accolades\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Our Awards \u0026 Accolades\"",
+                  "offset": 15
+                }
+              ],
+              "location": "sg.com.dbs.stepDefinitions.SocialImpactSteps.user_clicks_on(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 316394000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Validate the total number of awards displayed on the page is 22",
+            "match": {
+              "arguments": [
+                {
+                  "val": "22",
+                  "offset": 61
+                }
+              ],
+              "location": "sg.com.dbs.stepDefinitions.AwardsSteps.validate_the_total_number_of_awards_displayed_on_the_page_is(java.lang.Integer)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@SmokeTest"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 9610091000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on dbs singapore home page",
+            "match": {
+              "location": "sg.com.dbs.stepDefinitions.SocialImpactSteps.user_is_on_dbs_singapore_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3742377000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User clicks on \"Learn More\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Learn More\"",
+                  "offset": 15
+                }
+              ],
+              "location": "sg.com.dbs.stepDefinitions.SocialImpactSteps.user_clicks_on(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 558929000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User clicks on \"About\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"About\"",
+                  "offset": 15
+                }
+              ],
+              "location": "sg.com.dbs.stepDefinitions.SocialImpactSteps.user_clicks_on(java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-09-19T17:24:27.290Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2705605000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "sg.com.dbs.stepDefinitions.Hooks.initialize()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "Validate all the award name and caption of the awards mentioned in the below table",
+        "description": "",
+        "id": "validate-the-awards-\u0026-accolades-page;validate-all-the-award-name-and-caption-of-the-awards-mentioned-in-the-below-table",
+        "after": [
+          {
+            "result": {
+              "duration": 414668000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "sg.com.dbs.stepDefinitions.Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 611938000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "User clicks on \"Who we are\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Who we are\"",
+                  "offset": 15
+                }
+              ],
+              "location": "sg.com.dbs.stepDefinitions.SocialImpactSteps.user_clicks_on(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 393877000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User clicks on \"Our Awards \u0026 Accolades\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Our Awards \u0026 Accolades\"",
+                  "offset": 15
+                }
+              ],
+              "location": "sg.com.dbs.stepDefinitions.SocialImpactSteps.user_clicks_on(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1318628000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "User validates all the award name and caption of the awards mentioned below",
+            "match": {
+              "location": "sg.com.dbs.stepDefinitions.AwardsSteps.user_validates_all_the_award_name_and_caption_of_the_awards_mentioned_below(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Award Name",
+                  "Caption of the award"
+                ]
+              },
+              {
+                "cells": [
+                  "A World First",
+                  "Euromoney"
+                ]
+              },
+              {
+                "cells": [
+                  "The Banker",
+                  "Bank of the Year 2018"
+                ]
+              },
+              {
+                "cells": [
+                  "Global Finance",
+                  "Best Bank in the World 2018"
+                ]
+              },
+              {
+                "cells": [
+                  "Euromoney",
+                  "Awards For Excellence"
+                ]
+              },
+              {
+                "cells": [
+                  "Global Finance",
+                  "World\u0027s Best Banks"
+                ]
+              },
+              {
+                "cells": [
+                  "Global Finance",
+                  "World\u0027s Best Investment Banks and Derivatives Providers"
+                ]
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@SmokeTest"
+          }
+        ]
+      }
+    ],
+    "name": "Validate the Awards \u0026 Accolades page",
+    "description": "",
+    "id": "validate-the-awards-\u0026-accolades-page",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/sg/com/dbs/features/Awards.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": []
+      },
+      {
+        "start_timestamp": "2020-09-19T17:24:46.656Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2687455000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "sg.com.dbs.stepDefinitions.Hooks.initialize()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Get the list of SG F\u0026B Businesses that provide meals via \u0027Feed the City\u0027 programme funded by DBS",
+        "description": "",
+        "id": "validate-dbs-stronger-together-fund-setup-by-dbs-in-various-countries-to-support-communities-hard-hit-by-covid-19;get-the-list-of-sg-f\u0026b-businesses-that-provide-meals-via--feed-the-city--programme-funded-by-dbs",
+        "after": [
+          {
+            "result": {
+              "duration": 418154000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "sg.com.dbs.stepDefinitions.Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2550332000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User is on dbs singapore home page",
+            "match": {
+              "location": "sg.com.dbs.stepDefinitions.SocialImpactSteps.user_is_on_dbs_singapore_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3762044000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User clicks on \"Learn More\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Learn More\"",
+                  "offset": 15
+                }
+              ],
+              "location": "sg.com.dbs.stepDefinitions.SocialImpactSteps.user_clicks_on(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1406618000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User clicks on \"Sustainability\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Sustainability\"",
+                  "offset": 15
+                }
+              ],
+              "location": "sg.com.dbs.stepDefinitions.SocialImpactSteps.user_clicks_on(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2311389000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User clicks on \"Creating Social Impact\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Creating Social Impact\"",
+                  "offset": 15
+                }
+              ],
+              "location": "sg.com.dbs.stepDefinitions.SocialImpactSteps.user_clicks_on(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1298119000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User clicks on \"DBS Stronger Together Fund\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"DBS Stronger Together Fund\"",
+                  "offset": 15
+                }
+              ],
+              "location": "sg.com.dbs.stepDefinitions.SocialImpactSteps.user_clicks_on(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 348330000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User navigates to \"Singapore\" on the left panel",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Singapore\"",
+                  "offset": 18
+                }
+              ],
+              "location": "sg.com.dbs.stepDefinitions.SocialImpactSteps.user_navigates_to_on_the_left_panel(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 779877000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Gets the list of SG F\u0026B Businesses providing meals and writes to excel",
+            "match": {
+              "location": "sg.com.dbs.stepDefinitions.SocialImpactSteps.gets_the_list_of_sg_f_b_businesses_providing_meals_and_writes_to_excel()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@RegressionTest"
+          }
+        ]
+      }
+    ],
+    "name": "Validate DBS Stronger Together Fund setup by DBS in various countries to support communities hard hit by Covid-19",
+    "description": "",
+    "id": "validate-dbs-stronger-together-fund-setup-by-dbs-in-various-countries-to-support-communities-hard-hit-by-covid-19",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/sg/com/dbs/features/SocialImpact.feature",
+    "tags": []
+  }
+]

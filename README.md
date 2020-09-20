@@ -56,3 +56,4 @@ Reports will be generated in the below location after the test run is completed:
 /target/surefire-reports/   
 /target/cucumber-report-maven/
 /target/site/cucumber-report.html
+Excel output: src/main/java/sg/com/dbs/reports/Output.xls

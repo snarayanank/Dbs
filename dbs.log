@@ -1175,3 +1175,255 @@
 [INFO ] 2020-09-20 01:25:01.731 [main] SocialImpactSteps - Value written to excel is Tenseven Pte Ltd
 [INFO ] 2020-09-20 01:25:01.750 [main] SocialImpactSteps - Value written to excel is The Peranakan
 [INFO ] 2020-09-20 01:25:01.769 [main] SocialImpactSteps - Value written to excel is WNK F&B Management Pte Ltd
+[INFO ] 2020-09-20 11:46:11.571 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 11:46:11.573 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 11:46:14.780 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 11:46:14.781 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 11:46:18.171 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 11:46:18.172 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 11:49:48.466 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 11:49:48.468 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 11:49:51.568 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 11:49:51.568 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 11:49:54.835 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 11:49:54.836 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 11:50:51.293 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 11:50:51.294 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 11:50:54.870 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 11:50:54.871 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 11:50:57.921 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 11:50:57.921 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 11:59:09.113 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 11:59:09.114 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 11:59:11.552 [main] SocialImpactSteps - Page title is DBS Bank | Singapore
+[INFO ] 2020-09-20 11:59:14.895 [main] SocialImpactSteps - Clicked Learn More link
+[INFO ] 2020-09-20 11:59:15.424 [main] SocialImpactSteps - Navigating to About page
+[INFO ] 2020-09-20 11:59:16.090 [main] SocialImpactSteps - Navigating to Who we are page
+[INFO ] 2020-09-20 11:59:16.504 [main] SocialImpactSteps - Navigating to Our Awards & Accolades page
+[INFO ] 2020-09-20 11:59:17.082 [main] AwardsSteps - Total number of awards displayed on the page is 22
+[INFO ] 2020-09-20 11:59:17.082 [main] AwardsSteps - Validated the total number of awards displayed on the page is 22
+[INFO ] 2020-09-20 11:59:20.044 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 11:59:20.044 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 11:59:22.401 [main] SocialImpactSteps - Page title is DBS Bank | Singapore
+[INFO ] 2020-09-20 11:59:25.394 [main] SocialImpactSteps - Clicked Learn More link
+[INFO ] 2020-09-20 11:59:25.936 [main] SocialImpactSteps - Navigating to About page
+[INFO ] 2020-09-20 11:59:26.557 [main] SocialImpactSteps - Navigating to Who we are page
+[INFO ] 2020-09-20 11:59:26.728 [main] SocialImpactSteps - Navigating to Our Awards & Accolades page
+[INFO ] 2020-09-20 11:59:26.730 [main] AwardsSteps - User validates all the award name and caption of the awards mentioned below
+[INFO ] 2020-09-20 11:59:27.595 [main] AwardsSteps - Award Name to be validated is A World First and the Caption is Euromoney
+[INFO ] 2020-09-20 11:59:27.652 [main] AwardsSteps - Award/Caption A World First/Euromoney is displayed
+[INFO ] 2020-09-20 11:59:27.664 [main] AwardsSteps - Award Name to be validated is The Banker and the Caption is Bank of the Year 2018
+[INFO ] 2020-09-20 11:59:27.711 [main] AwardsSteps - Award/Caption The Banker/Bank of the Year 2018 is displayed
+[INFO ] 2020-09-20 11:59:27.724 [main] AwardsSteps - Award Name to be validated is Global Finance and the Caption is Best Bank in the World 2018
+[INFO ] 2020-09-20 11:59:27.768 [main] AwardsSteps - Award/Caption Global Finance/Best Bank in the World 2018 is displayed
+[INFO ] 2020-09-20 11:59:27.781 [main] AwardsSteps - Award Name to be validated is Euromoney and the Caption is Awards For Excellence
+[INFO ] 2020-09-20 11:59:27.834 [main] AwardsSteps - Award/Caption Euromoney/Awards For Excellence is displayed
+[INFO ] 2020-09-20 11:59:27.847 [main] AwardsSteps - Award Name to be validated is Global Finance and the Caption is World's Best Banks
+[INFO ] 2020-09-20 11:59:27.894 [main] AwardsSteps - Award/Caption Global Finance/World's Best Banks is displayed
+[INFO ] 2020-09-20 11:59:27.907 [main] AwardsSteps - Award Name to be validated is Global Finance and the Caption is World's Best Investment Banks and Derivatives Providers
+[INFO ] 2020-09-20 11:59:27.951 [main] AwardsSteps - Award/Caption Global Finance/World's Best Investment Banks and Derivatives Providers is displayed
+[INFO ] 2020-09-20 11:59:30.685 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 11:59:30.685 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 11:59:33.026 [main] SocialImpactSteps - Page title is DBS Bank | Singapore
+[INFO ] 2020-09-20 11:59:36.195 [main] SocialImpactSteps - Clicked Learn More link
+[INFO ] 2020-09-20 11:59:36.784 [main] SocialImpactSteps - Clicked Sustainability link
+[INFO ] 2020-09-20 11:59:38.190 [main] SocialImpactSteps - Clicked Social Impact link
+[INFO ] 2020-09-20 11:59:39.488 [main] SocialImpactSteps - Clicked DBS Stronger Together Fund link
+[INFO ] 2020-09-20 11:59:39.807 [main] SocialImpactSteps - Navigating to Singapore option
+[INFO ] 2020-09-20 11:59:39.827 [main] SocialImpactSteps - Number of rows in the table is 6
+[INFO ] 2020-09-20 11:59:39.938 [main] SocialImpactSteps - Number of columns in the table is 5
+[INFO ] 2020-09-20 11:59:39.980 [main] SocialImpactSteps - Value written to excel is Amalgam Holdings Pte Ltd
+[INFO ] 2020-09-20 11:59:40.007 [main] SocialImpactSteps - Value written to excel is Andhra Heritage Pte Ltd
+[INFO ] 2020-09-20 11:59:40.029 [main] SocialImpactSteps - Value written to excel is Bliss Group
+[INFO ] 2020-09-20 11:59:40.053 [main] SocialImpactSteps - Value written to excel is Chang Cheng Group
+[INFO ] 2020-09-20 11:59:40.076 [main] SocialImpactSteps - Value written to excel is Elsie's Kitchen Catering Services Pte Ltd
+[INFO ] 2020-09-20 11:59:40.086 [main] SocialImpactSteps - Number of columns in the table is 5
+[INFO ] 2020-09-20 11:59:40.107 [main] SocialImpactSteps - Value written to excel is Fei Siong Group
+[INFO ] 2020-09-20 11:59:40.127 [main] SocialImpactSteps - Value written to excel is Four Seasons Catering
+[INFO ] 2020-09-20 11:59:40.147 [main] SocialImpactSteps - Value written to excel is Gao Ji F&B Pte Ltd
+[INFO ] 2020-09-20 11:59:40.168 [main] SocialImpactSteps - Value written to excel is Grain
+[INFO ] 2020-09-20 11:59:40.193 [main] SocialImpactSteps - Value written to excel is Java Kitchen Pte Ltd
+[INFO ] 2020-09-20 11:59:40.199 [main] SocialImpactSteps - Number of columns in the table is 5
+[INFO ] 2020-09-20 11:59:40.218 [main] SocialImpactSteps - Value written to excel is Joe & Dough Pte Ltd
+[INFO ] 2020-09-20 11:59:40.236 [main] SocialImpactSteps - Value written to excel is JR Foods Pte Ltd
+[INFO ] 2020-09-20 11:59:40.255 [main] SocialImpactSteps - Value written to excel is Kim San Leng Group
+[INFO ] 2020-09-20 11:59:40.275 [main] SocialImpactSteps - Value written to excel is Kimly Group
+[INFO ] 2020-09-20 11:59:40.294 [main] SocialImpactSteps - Value written to excel is Koufu Group
+[INFO ] 2020-09-20 11:59:40.300 [main] SocialImpactSteps - Number of columns in the table is 5
+[INFO ] 2020-09-20 11:59:40.318 [main] SocialImpactSteps - Value written to excel is K&C Holdings Pte Ltd
+[INFO ] 2020-09-20 11:59:40.337 [main] SocialImpactSteps - Value written to excel is My NoNNa?s
+[INFO ] 2020-09-20 11:59:40.356 [main] SocialImpactSteps - Value written to excel is PopeJai Pte Ltd
+[INFO ] 2020-09-20 11:59:40.377 [main] SocialImpactSteps - Value written to excel is Qi Ji Group
+[INFO ] 2020-09-20 11:59:40.394 [main] SocialImpactSteps - Value written to excel is Spize Bedok Pte Ltd
+[INFO ] 2020-09-20 11:59:40.400 [main] SocialImpactSteps - Number of columns in the table is 5
+[INFO ] 2020-09-20 11:59:40.418 [main] SocialImpactSteps - Value written to excel is Sterling Trends & Concepts Pte Ltd
+[INFO ] 2020-09-20 11:59:40.436 [main] SocialImpactSteps - Value written to excel is Straits Chinese Nonya Restaurant Pte Ltd
+[INFO ] 2020-09-20 11:59:40.455 [main] SocialImpactSteps - Value written to excel is SWHF Pte Ltd (Simply Wrapps)
+[INFO ] 2020-09-20 11:59:40.474 [main] SocialImpactSteps - Value written to excel is Tasty Loong Pte Ltd
+[INFO ] 2020-09-20 11:59:40.493 [main] SocialImpactSteps - Value written to excel is Tenderfresh Fried & BBQ Chicken Pte Ltd
+[INFO ] 2020-09-20 11:59:40.500 [main] SocialImpactSteps - Number of columns in the table is 5
+[INFO ] 2020-09-20 11:59:40.519 [main] SocialImpactSteps - Value written to excel is Tenseven Pte Ltd
+[INFO ] 2020-09-20 11:59:40.538 [main] SocialImpactSteps - Value written to excel is The Peranakan
+[INFO ] 2020-09-20 11:59:40.558 [main] SocialImpactSteps - Value written to excel is WNK F&B Management Pte Ltd
+[INFO ] 2020-09-20 12:00:13.686 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 12:00:13.687 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 12:00:16.998 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 12:00:16.999 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 12:00:20.096 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 12:00:20.096 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 12:21:12.189 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 12:21:12.190 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 12:21:15.296 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 12:21:15.296 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 12:21:18.364 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 12:21:18.364 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 12:39:34.469 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 12:39:34.471 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 12:39:37.585 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 12:39:37.586 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 12:39:40.658 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 12:39:40.658 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 12:42:41.732 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 12:42:41.733 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 12:42:44.151 [main] SocialImpactSteps - Page title is DBS Bank | Singapore
+[INFO ] 2020-09-20 12:42:47.856 [main] SocialImpactSteps - Clicked Learn More link
+[INFO ] 2020-09-20 12:42:48.366 [main] SocialImpactSteps - Navigating to About page
+[INFO ] 2020-09-20 12:42:49.025 [main] SocialImpactSteps - Navigating to Who we are page
+[INFO ] 2020-09-20 12:42:49.254 [main] SocialImpactSteps - Navigating to Our Awards & Accolades page
+[INFO ] 2020-09-20 12:42:49.604 [main] AwardsSteps - Total number of awards displayed on the page is 22
+[INFO ] 2020-09-20 12:42:49.604 [main] AwardsSteps - Validated the total number of awards displayed on the page is 22
+[INFO ] 2020-09-20 12:42:52.294 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 12:42:52.294 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 12:42:56.437 [main] SocialImpactSteps - Page title is DBS Bank | Singapore
+[INFO ] 2020-09-20 12:43:00.693 [main] SocialImpactSteps - Clicked Learn More link
+[INFO ] 2020-09-20 12:43:01.228 [main] SocialImpactSteps - Navigating to About page
+[INFO ] 2020-09-20 12:43:01.861 [main] SocialImpactSteps - Navigating to Who we are page
+[INFO ] 2020-09-20 12:43:02.250 [main] SocialImpactSteps - Navigating to Our Awards & Accolades page
+[INFO ] 2020-09-20 12:43:02.252 [main] AwardsSteps - User validates all the award name and caption of the awards mentioned below
+[INFO ] 2020-09-20 12:43:03.675 [main] AwardsSteps - Award Name to be validated is A World First and the Caption is Euromoney
+[INFO ] 2020-09-20 12:43:03.729 [main] AwardsSteps - Award/Caption A World First/Euromoney is displayed
+[INFO ] 2020-09-20 12:43:03.741 [main] AwardsSteps - Award Name to be validated is The Banker and the Caption is Bank of the Year 2018
+[INFO ] 2020-09-20 12:43:03.789 [main] AwardsSteps - Award/Caption The Banker/Bank of the Year 2018 is displayed
+[INFO ] 2020-09-20 12:43:03.801 [main] AwardsSteps - Award Name to be validated is Global Finance and the Caption is Best Bank in the World 2018
+[INFO ] 2020-09-20 12:43:03.845 [main] AwardsSteps - Award/Caption Global Finance/Best Bank in the World 2018 is displayed
+[INFO ] 2020-09-20 12:43:03.857 [main] AwardsSteps - Award Name to be validated is Euromoney and the Caption is Awards For Excellence
+[INFO ] 2020-09-20 12:43:03.902 [main] AwardsSteps - Award/Caption Euromoney/Awards For Excellence is displayed
+[INFO ] 2020-09-20 12:43:03.914 [main] AwardsSteps - Award Name to be validated is Global Finance and the Caption is World's Best Banks
+[INFO ] 2020-09-20 12:43:03.962 [main] AwardsSteps - Award/Caption Global Finance/World's Best Banks is displayed
+[INFO ] 2020-09-20 12:43:03.977 [main] AwardsSteps - Award Name to be validated is Global Finance and the Caption is World's Best Investment Banks and Derivatives Providers
+[INFO ] 2020-09-20 12:43:04.032 [main] AwardsSteps - Award/Caption Global Finance/World's Best Investment Banks and Derivatives Providers is displayed
+[INFO ] 2020-09-20 12:43:06.678 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 12:43:06.679 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 12:43:09.272 [main] SocialImpactSteps - Page title is DBS Bank | Singapore
+[INFO ] 2020-09-20 12:43:12.707 [main] SocialImpactSteps - Clicked Learn More link
+[INFO ] 2020-09-20 12:43:13.909 [main] SocialImpactSteps - Clicked Sustainability link
+[INFO ] 2020-09-20 12:43:14.267 [main] SocialImpactSteps - Clicked Social Impact link
+[INFO ] 2020-09-20 12:43:15.678 [main] SocialImpactSteps - Clicked DBS Stronger Together Fund link
+[INFO ] 2020-09-20 12:43:16.024 [main] SocialImpactSteps - Navigating to Singapore option
+[INFO ] 2020-09-20 12:43:16.043 [main] SocialImpactSteps - Number of rows in the table is 6
+[INFO ] 2020-09-20 12:43:16.154 [main] SocialImpactSteps - Number of columns in the table is 5
+[INFO ] 2020-09-20 12:43:16.194 [main] SocialImpactSteps - Value written to excel is Amalgam Holdings Pte Ltd
+[INFO ] 2020-09-20 12:43:16.223 [main] SocialImpactSteps - Value written to excel is Andhra Heritage Pte Ltd
+[INFO ] 2020-09-20 12:43:16.245 [main] SocialImpactSteps - Value written to excel is Bliss Group
+[INFO ] 2020-09-20 12:43:16.273 [main] SocialImpactSteps - Value written to excel is Chang Cheng Group
+[INFO ] 2020-09-20 12:43:16.295 [main] SocialImpactSteps - Value written to excel is Elsie's Kitchen Catering Services Pte Ltd
+[INFO ] 2020-09-20 12:43:16.304 [main] SocialImpactSteps - Number of columns in the table is 5
+[INFO ] 2020-09-20 12:43:16.326 [main] SocialImpactSteps - Value written to excel is Fei Siong Group
+[INFO ] 2020-09-20 12:43:16.348 [main] SocialImpactSteps - Value written to excel is Four Seasons Catering
+[INFO ] 2020-09-20 12:43:16.368 [main] SocialImpactSteps - Value written to excel is Gao Ji F&B Pte Ltd
+[INFO ] 2020-09-20 12:43:16.388 [main] SocialImpactSteps - Value written to excel is Grain
+[INFO ] 2020-09-20 12:43:16.407 [main] SocialImpactSteps - Value written to excel is Java Kitchen Pte Ltd
+[INFO ] 2020-09-20 12:43:16.414 [main] SocialImpactSteps - Number of columns in the table is 5
+[INFO ] 2020-09-20 12:43:16.434 [main] SocialImpactSteps - Value written to excel is Joe & Dough Pte Ltd
+[INFO ] 2020-09-20 12:43:16.453 [main] SocialImpactSteps - Value written to excel is JR Foods Pte Ltd
+[INFO ] 2020-09-20 12:43:16.476 [main] SocialImpactSteps - Value written to excel is Kim San Leng Group
+[INFO ] 2020-09-20 12:43:16.495 [main] SocialImpactSteps - Value written to excel is Kimly Group
+[INFO ] 2020-09-20 12:43:16.513 [main] SocialImpactSteps - Value written to excel is Koufu Group
+[INFO ] 2020-09-20 12:43:16.519 [main] SocialImpactSteps - Number of columns in the table is 5
+[INFO ] 2020-09-20 12:43:16.537 [main] SocialImpactSteps - Value written to excel is K&C Holdings Pte Ltd
+[INFO ] 2020-09-20 12:43:16.556 [main] SocialImpactSteps - Value written to excel is My NoNNa’s
+[INFO ] 2020-09-20 12:43:16.574 [main] SocialImpactSteps - Value written to excel is PopeJai Pte Ltd
+[INFO ] 2020-09-20 12:43:16.595 [main] SocialImpactSteps - Value written to excel is Qi Ji Group
+[INFO ] 2020-09-20 12:43:16.614 [main] SocialImpactSteps - Value written to excel is Spize Bedok Pte Ltd
+[INFO ] 2020-09-20 12:43:16.621 [main] SocialImpactSteps - Number of columns in the table is 5
+[INFO ] 2020-09-20 12:43:16.642 [main] SocialImpactSteps - Value written to excel is Sterling Trends & Concepts Pte Ltd
+[INFO ] 2020-09-20 12:43:16.661 [main] SocialImpactSteps - Value written to excel is Straits Chinese Nonya Restaurant Pte Ltd
+[INFO ] 2020-09-20 12:43:16.698 [main] SocialImpactSteps - Value written to excel is SWHF Pte Ltd (Simply Wrapps)
+[INFO ] 2020-09-20 12:43:16.721 [main] SocialImpactSteps - Value written to excel is Tasty Loong Pte Ltd
+[INFO ] 2020-09-20 12:43:16.745 [main] SocialImpactSteps - Value written to excel is Tenderfresh Fried & BBQ Chicken Pte Ltd
+[INFO ] 2020-09-20 12:43:16.752 [main] SocialImpactSteps - Number of columns in the table is 5
+[INFO ] 2020-09-20 12:43:16.771 [main] SocialImpactSteps - Value written to excel is Tenseven Pte Ltd
+[INFO ] 2020-09-20 12:43:16.791 [main] SocialImpactSteps - Value written to excel is The Peranakan
+[INFO ] 2020-09-20 12:43:16.809 [main] SocialImpactSteps - Value written to excel is WNK F&B Management Pte Ltd
+[INFO ] 2020-09-20 12:56:35.239 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 12:56:35.240 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 12:56:38.195 [main] SocialImpactSteps - Page title is DBS Bank | Singapore
+[INFO ] 2020-09-20 12:56:44.264 [main] SocialImpactSteps - Clicked Learn More link
+[INFO ] 2020-09-20 12:56:44.807 [main] SocialImpactSteps - Navigating to About page
+[INFO ] 2020-09-20 12:56:45.476 [main] SocialImpactSteps - Navigating to Who we are page
+[INFO ] 2020-09-20 12:56:45.754 [main] SocialImpactSteps - Navigating to Our Awards & Accolades page
+[INFO ] 2020-09-20 12:56:46.056 [main] AwardsSteps - Total number of awards displayed on the page is 22
+[INFO ] 2020-09-20 12:56:46.056 [main] AwardsSteps - Validated the total number of awards displayed on the page is 22
+[INFO ] 2020-09-20 12:56:48.866 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 12:56:48.866 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 12:56:51.345 [main] SocialImpactSteps - Page title is DBS Bank | Singapore
+[INFO ] 2020-09-20 12:56:54.406 [main] SocialImpactSteps - Clicked Learn More link
+[INFO ] 2020-09-20 12:56:55.039 [main] SocialImpactSteps - Navigating to About page
+[INFO ] 2020-09-20 12:56:55.677 [main] SocialImpactSteps - Navigating to Who we are page
+[INFO ] 2020-09-20 12:56:55.920 [main] SocialImpactSteps - Navigating to Our Awards & Accolades page
+[INFO ] 2020-09-20 12:56:55.921 [main] AwardsSteps - User validates all the award name and caption of the awards mentioned below
+[INFO ] 2020-09-20 12:56:56.814 [main] AwardsSteps - Award Name to be validated is A World First and the Caption is Euromoney
+[INFO ] 2020-09-20 12:56:56.867 [main] AwardsSteps - Award/Caption A World First/Euromoney is displayed
+[INFO ] 2020-09-20 12:56:56.883 [main] AwardsSteps - Award Name to be validated is The Banker and the Caption is Bank of the Year 2018
+[INFO ] 2020-09-20 12:56:56.930 [main] AwardsSteps - Award/Caption The Banker/Bank of the Year 2018 is displayed
+[INFO ] 2020-09-20 12:56:56.954 [main] AwardsSteps - Award Name to be validated is Global Finance and the Caption is Best Bank in the World 2018
+[INFO ] 2020-09-20 12:56:57.012 [main] AwardsSteps - Award/Caption Global Finance/Best Bank in the World 2018 is displayed
+[INFO ] 2020-09-20 12:56:57.033 [main] AwardsSteps - Award Name to be validated is Euromoney and the Caption is Awards For Excellence
+[INFO ] 2020-09-20 12:56:57.080 [main] AwardsSteps - Award/Caption Euromoney/Awards For Excellence is displayed
+[INFO ] 2020-09-20 12:56:57.093 [main] AwardsSteps - Award Name to be validated is Global Finance and the Caption is World's Best Banks
+[INFO ] 2020-09-20 12:56:57.137 [main] AwardsSteps - Award/Caption Global Finance/World's Best Banks is displayed
+[INFO ] 2020-09-20 12:56:57.148 [main] AwardsSteps - Award Name to be validated is Global Finance and the Caption is World's Best Investment Banks and Derivatives Providers
+[INFO ] 2020-09-20 12:56:57.195 [main] AwardsSteps - Award/Caption Global Finance/World's Best Investment Banks and Derivatives Providers is displayed
+[INFO ] 2020-09-20 12:56:59.932 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2020-09-20 12:56:59.933 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-20 12:57:02.472 [main] SocialImpactSteps - Page title is DBS Bank | Singapore
+[INFO ] 2020-09-20 12:57:05.478 [main] SocialImpactSteps - Clicked Learn More link
+[INFO ] 2020-09-20 12:57:06.762 [main] SocialImpactSteps - Clicked Sustainability link
+[INFO ] 2020-09-20 12:57:07.187 [main] SocialImpactSteps - Clicked Social Impact link
+[INFO ] 2020-09-20 12:57:08.669 [main] SocialImpactSteps - Clicked DBS Stronger Together Fund link
+[INFO ] 2020-09-20 12:57:09.031 [main] SocialImpactSteps - Navigating to Singapore option
+[INFO ] 2020-09-20 12:57:09.050 [main] SocialImpactSteps - Number of rows in the table is 6
+[INFO ] 2020-09-20 12:57:09.158 [main] SocialImpactSteps - Number of columns in the table is 5
+[INFO ] 2020-09-20 12:57:09.200 [main] SocialImpactSteps - Value written to excel is Amalgam Holdings Pte Ltd
+[INFO ] 2020-09-20 12:57:09.224 [main] SocialImpactSteps - Value written to excel is Andhra Heritage Pte Ltd
+[INFO ] 2020-09-20 12:57:09.249 [main] SocialImpactSteps - Value written to excel is Bliss Group
+[INFO ] 2020-09-20 12:57:09.270 [main] SocialImpactSteps - Value written to excel is Chang Cheng Group
+[INFO ] 2020-09-20 12:57:09.292 [main] SocialImpactSteps - Value written to excel is Elsie's Kitchen Catering Services Pte Ltd
+[INFO ] 2020-09-20 12:57:09.299 [main] SocialImpactSteps - Number of columns in the table is 5
+[INFO ] 2020-09-20 12:57:09.327 [main] SocialImpactSteps - Value written to excel is Fei Siong Group
+[INFO ] 2020-09-20 12:57:09.349 [main] SocialImpactSteps - Value written to excel is Four Seasons Catering
+[INFO ] 2020-09-20 12:57:09.370 [main] SocialImpactSteps - Value written to excel is Gao Ji F&B Pte Ltd
+[INFO ] 2020-09-20 12:57:09.393 [main] SocialImpactSteps - Value written to excel is Grain
+[INFO ] 2020-09-20 12:57:09.412 [main] SocialImpactSteps - Value written to excel is Java Kitchen Pte Ltd
+[INFO ] 2020-09-20 12:57:09.420 [main] SocialImpactSteps - Number of columns in the table is 5
+[INFO ] 2020-09-20 12:57:09.438 [main] SocialImpactSteps - Value written to excel is Joe & Dough Pte Ltd
+[INFO ] 2020-09-20 12:57:09.457 [main] SocialImpactSteps - Value written to excel is JR Foods Pte Ltd
+[INFO ] 2020-09-20 12:57:09.475 [main] SocialImpactSteps - Value written to excel is Kim San Leng Group
+[INFO ] 2020-09-20 12:57:09.493 [main] SocialImpactSteps - Value written to excel is Kimly Group
+[INFO ] 2020-09-20 12:57:09.515 [main] SocialImpactSteps - Value written to excel is Koufu Group
+[INFO ] 2020-09-20 12:57:09.521 [main] SocialImpactSteps - Number of columns in the table is 5
+[INFO ] 2020-09-20 12:57:09.539 [main] SocialImpactSteps - Value written to excel is K&C Holdings Pte Ltd
+[INFO ] 2020-09-20 12:57:09.557 [main] SocialImpactSteps - Value written to excel is My NoNNa’s
+[INFO ] 2020-09-20 12:57:09.576 [main] SocialImpactSteps - Value written to excel is PopeJai Pte Ltd
+[INFO ] 2020-09-20 12:57:09.594 [main] SocialImpactSteps - Value written to excel is Qi Ji Group
+[INFO ] 2020-09-20 12:57:09.613 [main] SocialImpactSteps - Value written to excel is Spize Bedok Pte Ltd
+[INFO ] 2020-09-20 12:57:09.620 [main] SocialImpactSteps - Number of columns in the table is 5
+[INFO ] 2020-09-20 12:57:09.638 [main] SocialImpactSteps - Value written to excel is Sterling Trends & Concepts Pte Ltd
+[INFO ] 2020-09-20 12:57:09.658 [main] SocialImpactSteps - Value written to excel is Straits Chinese Nonya Restaurant Pte Ltd
+[INFO ] 2020-09-20 12:57:09.676 [main] SocialImpactSteps - Value written to excel is SWHF Pte Ltd (Simply Wrapps)
+[INFO ] 2020-09-20 12:57:09.694 [main] SocialImpactSteps - Value written to excel is Tasty Loong Pte Ltd
+[INFO ] 2020-09-20 12:57:09.713 [main] SocialImpactSteps - Value written to excel is Tenderfresh Fried & BBQ Chicken Pte Ltd
+[INFO ] 2020-09-20 12:57:09.718 [main] SocialImpactSteps - Number of columns in the table is 5
+[INFO ] 2020-09-20 12:57:09.738 [main] SocialImpactSteps - Value written to excel is Tenseven Pte Ltd
+[INFO ] 2020-09-20 12:57:09.760 [main] SocialImpactSteps - Value written to excel is The Peranakan
+[INFO ] 2020-09-20 12:57:09.779 [main] SocialImpactSteps - Value written to excel is WNK F&B Management Pte Ltd

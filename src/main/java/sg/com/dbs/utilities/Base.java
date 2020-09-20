@@ -38,20 +38,20 @@ public class Base {
     public WebDriver initializeDriver() throws IOException {
         //Read config properties for generic input
         prop = new Properties();
-        String envName = System.getProperty("envname");
+        String envName = System.getProperty("envname");;
         if (envName == null) {
             envName = "sit";
         }
+        FileInputStream fIpStr;
         if (envName == "sit"){
-            FileInputStream fIpStr = new FileInputStream(
+            fIpStr = new FileInputStream(
                     currDir + "//src//main//resources//config.sit.properties");
-            prop.load(fIpStr);
         }
         else {
-            FileInputStream fIpStr = new FileInputStream(
+            fIpStr = new FileInputStream(
                     currDir + "//src//main//resources//config.uat.properties");
-            prop.load(fIpStr);
         }
+        prop.load(fIpStr);
 
         //Get Browser Name
         String browserName = System.getProperty("browser");

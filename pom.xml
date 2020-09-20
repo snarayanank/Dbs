@@ -97,7 +97,7 @@
                         </goals>
                         <configuration>
                             <projectName>DBS</projectName>
-                            <outputDirectory>${project.build.directory}/cucumber-report-maven.html</outputDirectory>
+                            <outputDirectory>${project.build.directory}/cucumber-report-maven</outputDirectory>
                             <inputDirectory>${project.build.directory}</inputDirectory>
                             <jsonFiles>
                                 <param>**/*.json</param>

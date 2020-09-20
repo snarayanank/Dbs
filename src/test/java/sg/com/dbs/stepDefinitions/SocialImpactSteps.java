@@ -41,7 +41,7 @@ public class SocialImpactSteps extends Base {
     @Given("User is on dbs singapore home page")
     public void user_is_on_dbs_singapore_home_page() {
         //Open the DBS SG home page
-        driver.get(prop.getProperty("baseurl"));
+        driver.get(prop.getProperty("baseUrl"));
         log.info("Page title is " + driver.getTitle());
         pageTitle = driver.getTitle();
         Assert.assertTrue(pageTitle.contains("DBS Bank"));
